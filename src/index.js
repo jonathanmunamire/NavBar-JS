@@ -1,14 +1,9 @@
 import _ from 'lodash';
 import './style.css';
 
+const navToggle = document.querySelector(".nav-toggle");
+const links = document.querySelector(".links"); 
 
-function component() {
-    const element = document.createElement('div');
-
-    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-    element.classList.add('hello');
-  
-    return element;
-  }
-  
-  document.body.appendChild(component());
+navToggle.addEventListener('click', function(){
+    links.classList.toggle('show-links');
+})
