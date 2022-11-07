@@ -1,8 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# NavBar
 
-# WebPack
-
-> Project to Display List of Books
+> Project to Display A Simple Responsive NavBar
 
 ## Built With
 
@@ -23,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
     Clone this repository
-    git clone https://github.com/jonathanmunamire/Webpack.git
+    git clone https://github.com/jonathanmunamire/NavBar-JS.git
 
 ### Install
 
@@ -31,7 +29,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-[Live Demo Link]()
+[Live Demo Link](https://jonathanmunamire.github.io/NavBar-JS/dist/)
 
 ## Create your Own Webpack Template
 
